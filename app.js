@@ -1,5 +1,5 @@
 const API_KEY = "AIzaSyBqMUi41wI_5RptC11iI_HaF9j_b88e0dg";
-const CHANNEL_ID = "UC5OrDvL9DscpcAstz7JnQGA";
+const CHANNEL_ID = "UCwgc-ODtpi4OKxnbYGmyTig";
 
 const RECENT_VIDEOS = 24;
 
